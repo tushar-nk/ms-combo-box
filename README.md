@@ -2,12 +2,12 @@
 
 Comobo Box component
 
-## To Start Project
+## To Run Project
 
-### First install dependencies
+### Install dependencies
 
 Navigate to root of your project and run `cd ms-combo-box` and run `npm install`.
 
-### To Start Projects
+### To Start project
 
 Navigate to root of your project and run `cd ms-combo-box` and run `npm run dev`.
